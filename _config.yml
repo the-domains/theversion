@@ -6,13 +6,13 @@ color:
     - '#808078'
     - '#C04860'
     - '#D06860'
-  brandStrength: 0.09572
-  lightness: 0.453828
-  rhythmicContrast: 0.199324
-  saturation: 0.097972
+  brandStrength: 0
+  lightness: 1
+  rhythmicContrast: 0
+  saturation: 0
 cta: {}
 layout_spectrum: 0.975225
-name: 'theversion '
+name: 'the version '
 opengraph: {}
 purpose: {}
 typography_spectrum: 0.4092438589919575
