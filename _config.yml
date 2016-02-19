@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.73536
-  lightness: 0.938063
-  rhythmicContrast: 0.258578
+    - '#C0A8B0'
+    - '#603028'
+    - '#985850'
+    - '#B45A4B'
+    - '#000000'
+  brandStrength: 0.939189
+  lightness: 0.453828
+  rhythmicContrast: 0.558558
   saturation: 0.097972
 cta: {}
-layout_spectrum: 0.972119291459647
+layout_spectrum: 0.975225
 name: 'theversion '
 opengraph: {}
 purpose: {}
