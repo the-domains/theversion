@@ -1,31 +1,19 @@
-name: 'the version '
-favicon: null
-layout_spectrum: 0.95787
-typography_spectrum: 0.614864
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#630f4d'
-    - '#6f4f92'
-    - '#fefefe'
-    - '#a4a0d5'
-    - '#302b63'
+    - '#000000'
+    - '#C09010'
+    - '#A08848'
+    - '#E8B018'
+    - '#F0D830'
   brandStrength: 0.375
   lightness: 0.5625
-  saturation: 0.125
   rhythmicContrast: 0.75
+  saturation: 0.125
+cta: {}
+layout_spectrum: 0.95787
+name: 'the version '
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.614864
