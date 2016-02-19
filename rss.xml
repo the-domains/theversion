@@ -4,8 +4,15 @@
         <description><![CDATA[the version ]]></description>
         <link>https://thegrid.ai/theversion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 15:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 15:34:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theversion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FILM]]></title>
+            <description><![CDATA[<article><h1>FILM</h1><p>Trailers etc </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8192d5ae3c32821d7045f174521a6f06cf469080.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theversion/film/index.html</link>
+            <guid isPermaLink="false">d71a0c7b-1884-4c31-8db6-1b51c12813e9</guid>
+            <pubDate>Fri, 19 Feb 2016 15:33:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lifestyle]]></title>
             <description><![CDATA[<article><h1>Lifestyle</h1><p>Discover and win Eves & Grey Shoes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d1b4c44c2c19f250b800814914bcf012f7a05a1.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Film]]></title>
-            <description><![CDATA[<article><h1>Film</h1><p>Previews, Reviews, Interviews, Trailers and more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4fae4a0-d485-47bf-965b-be1880bad56f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Film</h1><p>Previews, Reviews, Interviews, Trailers and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e4af1b11afa3482b84234c470875804df255a40.jpg"></article>]]></description>
             <link>https://thegrid.ai/theversion/film/index.html</link>
             <guid isPermaLink="false">dc88355d-0223-40a5-99bf-c13b803f3bfb</guid>
             <pubDate>Fri, 19 Feb 2016 15:16:58 GMT</pubDate>
