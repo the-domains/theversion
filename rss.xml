@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[theversion ]]></title>
         <description><![CDATA[theversion ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theversion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 07:05:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 07:11:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theversion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The People v OJ Simpson: American Crime Story, 1. From the Ashes of Tragedy]]></title>
+            <description><![CDATA[<article><h1>The People v OJ Simpson: American Crime Story, 1. From the Ashes of Tragedy</h1><p>Detectives link a double homicide with sportsman OJ Simpson but are unsure how to proceed.</p><img src="http://ichef.bbci.co.uk/images/ic/1200x675/p03j7nq4.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/iplayer/episode/b071cm2k/the-people-v-oj-simpson-american-crime-story-1-from-the-ashes-of-tragedy</link>
+            <guid isPermaLink="false">9044add1-f414-4354-b871-3381b4dca819</guid>
+            <pubDate>Fri, 19 Feb 2016 07:10:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HSBC offers voice and fingerprint ID system to customers - BBC News]]></title>
-            <description><![CDATA[<article><h1>HSBC offers voice and fingerprint ID system to customers - BBC News</h1><p>HSBC is launching voice recognition and touch security services in the UK in a big leap towards the introduction of biometric banking. The bank says its internet banking customers will no longer have to remember a password or memorable places and dates to access accounts.</p><img src="http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15DAA/production/_88341598_88341597.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>HSBC offers voice and fingerprint ID system to customers - BBC News</h1><p>HSBC is launching voice recognition and touch security services in the UK in a big leap towards the introduction of biometric banking. The bank says its internet banking customers will no longer have to remember a password or memorable places and dates to access accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1057c99370ff7c535a9be37250409dec472fa5fe.jpg"></article>]]></description>
             <link>http://www.bbc.co.uk/news/business-35609833</link>
             <guid isPermaLink="false">dd54aa64-970b-43df-ae70-d7646202cab8</guid>
             <pubDate>Fri, 19 Feb 2016 07:05:22 GMT</pubDate>
