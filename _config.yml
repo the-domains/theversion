@@ -6,10 +6,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.0744590044366299
-  lightness: 0.979570544838832
-  rhythmicContrast: 0.25857840961620415
-  saturation: 0.44733994147315803
+  brandStrength: 0.73536
+  lightness: 0.938063
+  rhythmicContrast: 0.258578
+  saturation: 0.097972
 cta: {}
 layout_spectrum: 0.972119291459647
 name: 'theversion '
