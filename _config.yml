@@ -21,10 +21,10 @@ color:
     - '#fefefe'
     - '#a4a0d5'
     - '#302b63'
-  brandStrength: 0.6875
-  lightness: 0.625
+  brandStrength: 0.375
+  lightness: 0.8125
   saturation: 1
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
